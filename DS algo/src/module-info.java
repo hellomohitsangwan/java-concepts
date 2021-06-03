@@ -1,0 +1,2 @@
+module dsAlgo {
+}
